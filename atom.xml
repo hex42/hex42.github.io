@@ -4,7 +4,7 @@
   <title><![CDATA[Life Experiment]]></title>
   <link href="http://hex42.github.io/atom.xml" rel="self"/>
   <link href="http://hex42.github.io/"/>
-  <updated>2019-02-19T14:32:02+08:00</updated>
+  <updated>2019-02-19T14:33:21+08:00</updated>
   <id>http://hex42.github.io/</id>
   <author>
     <name><![CDATA[hex42]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[First Blog of Octopress]]></title>
-    <link href="http://hex42.github.io/blog/2019/01/24/fff/"/>
+    <link href="http://hex42.github.io/blog/2019/01/24/demo/"/>
     <updated>2019-01-24T21:15:45+08:00</updated>
-    <id>http://hex42.github.io/blog/2019/01/24/fff</id>
+    <id>http://hex42.github.io/blog/2019/01/24/demo</id>
     <content type="html"><![CDATA[<p>it time to leave, show your bravity.</p>
 ]]></content>
   </entry>
