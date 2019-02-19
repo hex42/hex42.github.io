@@ -4,7 +4,7 @@
   <title><![CDATA[life experiment]]></title>
   <link href="http://hex42.github.io/atom.xml" rel="self"/>
   <link href="http://hex42.github.io/"/>
-  <updated>2019-02-19T15:02:40+08:00</updated>
+  <updated>2019-02-19T15:04:51+08:00</updated>
   <id>http://hex42.github.io/</id>
   <author>
     <name><![CDATA[hex42]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Find a Bug]]></title>
+    <link href="http://hex42.github.io/blog/2019/02/19/find-a-bug/"/>
+    <updated>2019-02-19T15:04:25+08:00</updated>
+    <id>http://hex42.github.io/blog/2019/02/19/find-a-bug</id>
+    <content type="html"><![CDATA[<p>dsjfl</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Most Awkard Bug]]></title>

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://hex42.github.io/blog/2019/02/19/find-a-bug/</loc>
+<lastmod>2019-02-19T15:04:25+08:00</lastmod>
+</url>
+<url>
 <loc>http://hex42.github.io/blog/2019/02/19/the-most-awkard-bug/</loc>
 <lastmod>2019-02-19T14:59:49+08:00</lastmod>
 </url>
