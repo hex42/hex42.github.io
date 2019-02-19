@@ -4,7 +4,7 @@
   <title><![CDATA[Life Experiment]]></title>
   <link href="http://hex42.github.io/atom.xml" rel="self"/>
   <link href="http://hex42.github.io/"/>
-  <updated>2019-02-19T14:33:21+08:00</updated>
+  <updated>2019-02-19T14:36:46+08:00</updated>
   <id>http://hex42.github.io/</id>
   <author>
     <name><![CDATA[hex42]]></name>
@@ -23,10 +23,10 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[E]]></title>
-    <link href="http://hex42.github.io/blog/2019/01/24/e/"/>
+    <title type="html"><![CDATA[Where Is Your Curiosity]]></title>
+    <link href="http://hex42.github.io/blog/2019/01/24/fib/"/>
     <updated>2019-01-24T21:06:15+08:00</updated>
-    <id>http://hex42.github.io/blog/2019/01/24/e</id>
+    <id>http://hex42.github.io/blog/2019/01/24/fib</id>
     <content type="html"><![CDATA[<p>welcome the space of hex42.</p>
 ]]></content>
   </entry>
