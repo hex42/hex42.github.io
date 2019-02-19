@@ -4,7 +4,7 @@
   <title><![CDATA[life experiment]]></title>
   <link href="http://hex42.github.io/atom.xml" rel="self"/>
   <link href="http://hex42.github.io/"/>
-  <updated>2019-02-19T14:53:36+08:00</updated>
+  <updated>2019-02-19T15:02:40+08:00</updated>
   <id>http://hex42.github.io/</id>
   <author>
     <name><![CDATA[hex42]]></name>
@@ -14,20 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[First Blog of Octopress]]></title>
-    <link href="http://hex42.github.io/blog/2019/01/24/demo/"/>
-    <updated>2019-01-24T21:15:45+08:00</updated>
-    <id>http://hex42.github.io/blog/2019/01/24/demo</id>
-    <content type="html"><![CDATA[<p>it time to leave, show your bravity.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Where Is]]></title>
-    <link href="http://hex42.github.io/blog/2019/01/24/fib/"/>
-    <updated>2019-01-24T21:06:15+08:00</updated>
-    <id>http://hex42.github.io/blog/2019/01/24/fib</id>
-    <content type="html"><![CDATA[<p>welcome the space of hex42.</p>
+    <title type="html"><![CDATA[The Most Awkard Bug]]></title>
+    <link href="http://hex42.github.io/blog/2019/02/19/the-most-awkard-bug/"/>
+    <updated>2019-02-19T14:59:49+08:00</updated>
+    <id>http://hex42.github.io/blog/2019/02/19/the-most-awkard-bug</id>
+    <content type="html"><![CDATA[<p>find it</p>
 ]]></content>
   </entry>
   
