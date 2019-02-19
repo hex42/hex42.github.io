@@ -4,7 +4,7 @@
   <title><![CDATA[life experiment]]></title>
   <link href="http://hex42.github.io/atom.xml" rel="self"/>
   <link href="http://hex42.github.io/"/>
-  <updated>2019-02-19T15:04:51+08:00</updated>
+  <updated>2019-02-19T15:09:41+08:00</updated>
   <id>http://hex42.github.io/</id>
   <author>
     <name><![CDATA[hex42]]></name>
@@ -14,20 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Find a Bug]]></title>
-    <link href="http://hex42.github.io/blog/2019/02/19/find-a-bug/"/>
-    <updated>2019-02-19T15:04:25+08:00</updated>
-    <id>http://hex42.github.io/blog/2019/02/19/find-a-bug</id>
-    <content type="html"><![CDATA[<p>dsjfl</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Most Awkard Bug]]></title>
-    <link href="http://hex42.github.io/blog/2019/02/19/the-most-awkard-bug/"/>
-    <updated>2019-02-19T14:59:49+08:00</updated>
-    <id>http://hex42.github.io/blog/2019/02/19/the-most-awkard-bug</id>
-    <content type="html"><![CDATA[<p>find it</p>
+    <title type="html"><![CDATA[Relax]]></title>
+    <link href="http://hex42.github.io/blog/2019/02/19/relax/"/>
+    <updated>2019-02-19T15:08:36+08:00</updated>
+    <id>http://hex42.github.io/blog/2019/02/19/relax</id>
+    <content type="html"><![CDATA[<p>wx</p>
 ]]></content>
   </entry>
   
