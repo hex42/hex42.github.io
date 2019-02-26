@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[]]></title>
+  <title><![CDATA[life experiment]]></title>
   <link href="http://hex42.github.io/atom.xml" rel="self"/>
   <link href="http://hex42.github.io/"/>
-  <updated>2019-02-26T20:03:34+08:00</updated>
+  <updated>2019-02-26T20:06:53+08:00</updated>
   <id>http://hex42.github.io/</id>
   <author>
     <name><![CDATA[hex42]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[relax]]></title>
+    <title type="html"><![CDATA[Relax]]></title>
     <link href="http://hex42.github.io/blog/2019/02/19/relax/"/>
     <updated>2019-02-19T15:08:36+08:00</updated>
     <id>http://hex42.github.io/blog/2019/02/19/relax</id>
