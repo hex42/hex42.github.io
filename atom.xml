@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[life experiment]]></title>
+  <title><![CDATA[hex42]]></title>
   <link href="http://hex42.github.io/atom.xml" rel="self"/>
   <link href="http://hex42.github.io/"/>
-  <updated>2019-02-26T19:54:39+08:00</updated>
+  <updated>2019-02-26T20:01:33+08:00</updated>
   <id>http://hex42.github.io/</id>
   <author>
     <name><![CDATA[hex42]]></name>
