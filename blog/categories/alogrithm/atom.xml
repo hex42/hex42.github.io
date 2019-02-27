@@ -4,7 +4,7 @@
   <title><![CDATA[Category: alogrithm | life experiment]]></title>
   <link href="http://hex42.github.io/blog/categories/alogrithm/atom.xml" rel="self"/>
   <link href="http://hex42.github.io/"/>
-  <updated>2019-02-27T12:32:00+08:00</updated>
+  <updated>2019-02-27T12:38:31+08:00</updated>
   <id>http://hex42.github.io/</id>
   <author>
     <name><![CDATA[hex42]]></name>
@@ -19,6 +19,26 @@
     <updated>2019-02-27T12:26:33+08:00</updated>
     <id>http://hex42.github.io/blog/2019/02/27/new-equation</id>
     <content type="html"><![CDATA[<p>a dark brown bear jump over a squarrel</p>
+
+<p>```scala</p>
+
+<pre><code>case Value(
+    base:String,
+    url:String,
+    ok:Boolean,
+    findUser:Vec[User])
+
+def fib[T:WeakRef](out:T):Unit = {
+    
+    for (2 to 100 &lt;- base;
+         if (2%100==0);
+         3&lt;-base.em();)
+
+         yield x
+
+    println(s"$name is really a small issue")
+} ```
+</code></pre>
 
 ]]></content>
   </entry>

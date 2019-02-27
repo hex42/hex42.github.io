@@ -4,7 +4,7 @@
   <title><![CDATA[life experiment]]></title>
   <link href="http://hex42.github.io/atom.xml" rel="self"/>
   <link href="http://hex42.github.io/"/>
-  <updated>2019-02-27T12:32:00+08:00</updated>
+  <updated>2019-02-27T12:38:31+08:00</updated>
   <id>http://hex42.github.io/</id>
   <author>
     <name><![CDATA[hex42]]></name>
@@ -19,6 +19,40 @@
     <updated>2019-02-27T12:26:33+08:00</updated>
     <id>http://hex42.github.io/blog/2019/02/27/new-equation</id>
     <content type="html"><![CDATA[<p>a dark brown bear jump over a squarrel</p>
+
+<figure class="code"><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class="line-number">1</span>
+<span class="line-number">2</span>
+<span class="line-number">3</span>
+<span class="line-number">4</span>
+<span class="line-number">5</span>
+<span class="line-number">6</span>
+<span class="line-number">7</span>
+<span class="line-number">8</span>
+<span class="line-number">9</span>
+<span class="line-number">10</span>
+<span class="line-number">11</span>
+<span class="line-number">12</span>
+<span class="line-number">13</span>
+<span class="line-number">14</span>
+<span class="line-number">15</span>
+<span class="line-number">16</span>
+</pre></td><td class="code"><pre><code class="scala"><span class="line">    <span class="k">case</span> <span class="nc">Value</span><span class="o">(</span>
+</span><span class="line">        <span class="n">base</span><span class="k">:</span><span class="kt">String</span><span class="o">,</span>
+</span><span class="line">        <span class="n">url</span><span class="k">:</span><span class="kt">String</span><span class="o">,</span>
+</span><span class="line">        <span class="n">ok</span><span class="k">:</span><span class="kt">Boolean</span><span class="o">,</span>
+</span><span class="line">        <span class="n">findUser</span><span class="k">:</span><span class="kt">Vec</span><span class="o">[</span><span class="kt">User</span><span class="o">])</span>
+</span><span class="line">
+</span><span class="line">    <span class="k">def</span> <span class="n">fib</span><span class="o">[</span><span class="kt">T:WeakRef</span><span class="o">](</span><span class="n">out</span><span class="k">:</span><span class="kt">T</span><span class="o">)</span><span class="k">:</span><span class="kt">Unit</span> <span class="o">=</span> <span class="o">{</span>
+</span><span class="line">
+</span><span class="line">        <span class="k">for</span> <span class="o">(</span><span class="mi">2</span> <span class="n">to</span> <span class="mi">100</span> <span class="k">&lt;-</span> <span class="n">base</span><span class="o">;</span>
+</span><span class="line">             <span class="k">if</span> <span class="o">(</span><span class="mi">2</span><span class="o">%</span><span class="mi">100</span><span class="o">==</span><span class="mi">0</span><span class="o">);</span>
+</span><span class="line">             <span class="mi">3</span><span class="k">&lt;-</span><span class="n">base</span><span class="o">.</span><span class="n">em</span><span class="o">();)</span>
+</span><span class="line">
+</span><span class="line">             <span class="k">yield</span> <span class="n">x</span>
+</span><span class="line">
+</span><span class="line">        <span class="n">println</span><span class="o">(</span><span class="n">s</span><span class="s">&quot;$name is really a small issue&quot;</span><span class="o">)</span>
+</span><span class="line">    <span class="o">}</span>
+</span></code></pre></td></tr></table></div></figure>
 
 ]]></content>
   </entry>
