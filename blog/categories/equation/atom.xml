@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[life experiment]]></title>
-  <link href="http://hex42.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: equation | life experiment]]></title>
+  <link href="http://hex42.github.io/blog/categories/equation/atom.xml" rel="self"/>
   <link href="http://hex42.github.io/"/>
   <updated>2019-02-27T12:28:45+08:00</updated>
   <id>http://hex42.github.io/</id>
@@ -20,24 +20,6 @@
     <id>http://hex42.github.io/blog/2019/02/27/new-equation</id>
     <content type="html"><![CDATA[<p>a dark brown bear jump over a squarrel</p>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A memoriable day]]></title>
-    <link href="http://hex42.github.io/blog/2019/02/27/a-memoriable-day/"/>
-    <updated>2019-02-27T12:24:35+08:00</updated>
-    <id>http://hex42.github.io/blog/2019/02/27/a-memoriable-day</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[relax]]></title>
-    <link href="http://hex42.github.io/blog/2019/02/19/relax/"/>
-    <updated>2019-02-19T15:08:36+08:00</updated>
-    <id>http://hex42.github.io/blog/2019/02/19/relax</id>
-    <content type="html"><![CDATA[<p>wx</p>
 ]]></content>
   </entry>
   
